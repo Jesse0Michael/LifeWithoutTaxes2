@@ -1,0 +1,717 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline" xmlns:Graphics="Microsoft.Xna.Framework.Graphics" xmlns:Processors="Microsoft.Xna.Framework.Content.Pipeline.Processors">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>MenuArt\Credits.png</Source>
+      <Name>MenuArt\Credits</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesse Michael\Desktop\USB back up\LifeWithoutTaxes2\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\MenuArt\Credits.xnb</Output>
+      <Time>2011-03-12T22:56:26-07:00</Time>
+    </Item>
+    <Item>
+      <Source>MenuArt\DrivingOneFail.png</Source>
+      <Name>MenuArt\DrivingOneFail</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesse Michael\Desktop\USB back up\LifeWithoutTaxes2\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\MenuArt\DrivingOneFail.xnb</Output>
+      <Time>2011-03-12T22:56:26-07:00</Time>
+    </Item>
+    <Item>
+      <Source>MenuArt\DrivingOneIntro.png</Source>
+      <Name>MenuArt\DrivingOneIntro</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesse Michael\Desktop\USB back up\LifeWithoutTaxes2\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\MenuArt\DrivingOneIntro.xnb</Output>
+      <Time>2011-03-12T22:56:26-07:00</Time>
+    </Item>
+    <Item>
+      <Source>MenuArt\DrivingOneWin.png</Source>
+      <Name>MenuArt\DrivingOneWin</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesse Michael\Desktop\USB back up\LifeWithoutTaxes2\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\MenuArt\DrivingOneWin.xnb</Output>
+      <Time>2011-03-12T22:56:26-07:00</Time>
+    </Item>
+    <Item>
+      <Source>MenuArt\DrivingTwoFail.png</Source>
+      <Name>MenuArt\DrivingTwoFail</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesse Michael\Desktop\USB back up\LifeWithoutTaxes2\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\MenuArt\DrivingTwoFail.xnb</Output>
+      <Time>2011-03-12T22:56:26-07:00</Time>
+    </Item>
+    <Item>
+      <Source>MenuArt\DrivingTwoWin.png</Source>
+      <Name>MenuArt\DrivingTwoWin</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesse Michael\Desktop\USB back up\LifeWithoutTaxes2\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\MenuArt\DrivingTwoWin.xnb</Output>
+      <Time>2011-03-12T22:56:26-07:00</Time>
+    </Item>
+    <Item>
+      <Source>MenuArt\gameIntro.png</Source>
+      <Name>MenuArt\gameIntro</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesse Michael\Desktop\USB back up\LifeWithoutTaxes2\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\MenuArt\gameIntro.xnb</Output>
+      <Time>2011-03-12T22:56:26-07:00</Time>
+    </Item>
+    <Item>
+      <Source>MenuArt\gameOutro.png</Source>
+      <Name>MenuArt\gameOutro</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesse Michael\Desktop\USB back up\LifeWithoutTaxes2\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\MenuArt\gameOutro.xnb</Output>
+      <Time>2011-03-12T22:56:26-07:00</Time>
+    </Item>
+    <Item>
+      <Source>MenuArt\GameTwoFail.png</Source>
+      <Name>MenuArt\GameTwoFail</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesse Michael\Desktop\USB back up\LifeWithoutTaxes2\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\MenuArt\GameTwoFail.xnb</Output>
+      <Time>2011-03-12T22:56:26-07:00</Time>
+    </Item>
+    <Item>
+      <Source>MenuArt\GameTwoIntro.png</Source>
+      <Name>MenuArt\GameTwoIntro</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesse Michael\Desktop\USB back up\LifeWithoutTaxes2\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\MenuArt\GameTwoIntro.xnb</Output>
+      <Time>2011-03-12T22:56:26-07:00</Time>
+    </Item>
+    <Item>
+      <Source>MenuArt\GameTwoWin.png</Source>
+      <Name>MenuArt\GameTwoWin</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesse Michael\Desktop\USB back up\LifeWithoutTaxes2\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\MenuArt\GameTwoWin.xnb</Output>
+      <Time>2011-03-12T22:56:26-07:00</Time>
+    </Item>
+    <Item>
+      <Source>MenuArt\titleScreen.png</Source>
+      <Name>MenuArt\titleScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesse Michael\Desktop\USB back up\LifeWithoutTaxes2\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\MenuArt\titleScreen.xnb</Output>
+      <Time>2011-03-12T22:56:26-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\arrowKey.png</Source>
+      <Name>Texture\arrowKey</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesse Michael\Desktop\USB back up\LifeWithoutTaxes2\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\Texture\arrowKey.xnb</Output>
+      <Time>2011-03-12T22:56:26-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\Bar.png</Source>
+      <Name>Texture\Bar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesse Michael\Desktop\USB back up\LifeWithoutTaxes2\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\Texture\Bar.xnb</Output>
+      <Time>2011-03-12T22:56:26-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\BarFill Blue.png</Source>
+      <Name>Texture\BarFill Blue</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesse Michael\Desktop\USB back up\LifeWithoutTaxes2\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\Texture\BarFill Blue.xnb</Output>
+      <Time>2011-03-12T22:56:26-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\BarFill Red.png</Source>
+      <Name>Texture\BarFill Red</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesse Michael\Desktop\USB back up\LifeWithoutTaxes2\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\Texture\BarFill Red.xnb</Output>
+      <Time>2011-03-12T22:56:26-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\buttonDown.png</Source>
+      <Name>Texture\buttonDown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesse Michael\Desktop\USB back up\LifeWithoutTaxes2\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\Texture\buttonDown.xnb</Output>
+      <Time>2011-03-12T22:56:26-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\buttonUp.png</Source>
+      <Name>Texture\buttonUp</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesse Michael\Desktop\USB back up\LifeWithoutTaxes2\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\Texture\buttonUp.xnb</Output>
+      <Time>2011-03-12T22:56:26-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\DrivingOneGrass2.png</Source>
+      <Name>Texture\DrivingOneGrass2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesse Michael\Desktop\USB back up\LifeWithoutTaxes2\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\Texture\DrivingOneGrass2.xnb</Output>
+      <Time>2011-03-12T22:56:26-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\DrivingOneSky21.png</Source>
+      <Name>Texture\DrivingOneSky21</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesse Michael\Desktop\USB back up\LifeWithoutTaxes2\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\Texture\DrivingOneSky21.xnb</Output>
+      <Time>2011-03-12T22:56:26-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\DrivingOneSky22.png</Source>
+      <Name>Texture\DrivingOneSky22</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesse Michael\Desktop\USB back up\LifeWithoutTaxes2\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\Texture\DrivingOneSky22.xnb</Output>
+      <Time>2011-03-12T22:56:26-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\DrivingOneStreet2.png</Source>
+      <Name>Texture\DrivingOneStreet2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesse Michael\Desktop\USB back up\LifeWithoutTaxes2\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\Texture\DrivingOneStreet2.xnb</Output>
+      <Time>2011-03-12T22:56:26-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\DrivingTwoGrass2.png</Source>
+      <Name>Texture\DrivingTwoGrass2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesse Michael\Desktop\USB back up\LifeWithoutTaxes2\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\Texture\DrivingTwoGrass2.xnb</Output>
+      <Time>2011-03-12T22:56:26-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\DrivingTwoSky2.png</Source>
+      <Name>Texture\DrivingTwoSky2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesse Michael\Desktop\USB back up\LifeWithoutTaxes2\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\Texture\DrivingTwoSky2.xnb</Output>
+      <Time>2011-03-12T22:56:26-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\DrivingTwoStreet2.png</Source>
+      <Name>Texture\DrivingTwoStreet2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesse Michael\Desktop\USB back up\LifeWithoutTaxes2\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\Texture\DrivingTwoStreet2.xnb</Output>
+      <Time>2011-03-12T22:56:26-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\GameTwoBkg2.png</Source>
+      <Name>Texture\GameTwoBkg2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesse Michael\Desktop\USB back up\LifeWithoutTaxes2\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\Texture\GameTwoBkg2.xnb</Output>
+      <Time>2011-03-12T22:56:26-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\pointer.png</Source>
+      <Name>Texture\pointer</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesse Michael\Desktop\USB back up\LifeWithoutTaxes2\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\Texture\pointer.xnb</Output>
+      <Time>2011-03-12T22:56:26-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\redFlash.png</Source>
+      <Name>Texture\redFlash</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesse Michael\Desktop\USB back up\LifeWithoutTaxes2\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\Texture\redFlash.xnb</Output>
+      <Time>2011-03-12T22:56:26-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\shadow.png</Source>
+      <Name>Texture\shadow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesse Michael\Desktop\USB back up\LifeWithoutTaxes2\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\Texture\shadow.xnb</Output>
+      <Time>2011-03-12T22:56:26-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Model\texture.png</Source>
+      <Name>Model\texture</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesse Michael\Desktop\USB back up\LifeWithoutTaxes2\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\Model\texture.xnb</Output>
+      <Time>2011-03-13T13:43:38-07:00</Time>
+    </Item>
+    <Item>
+      <Source>MenuArt\GameFourFail.png</Source>
+      <Name>MenuArt\GameFourFail</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesse Michael\Desktop\USB back up\LifeWithoutTaxes2\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\MenuArt\GameFourFail.xnb</Output>
+      <Time>2011-03-13T23:24:06-07:00</Time>
+    </Item>
+    <Item>
+      <Source>MenuArt\GameFourIntro.png</Source>
+      <Name>MenuArt\GameFourIntro</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesse Michael\Desktop\USB back up\LifeWithoutTaxes2\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\MenuArt\GameFourIntro.xnb</Output>
+      <Time>2011-03-13T23:24:06-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\Frost Waltz.mp3</Source>
+      <Name>Sound\Frost Waltz</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesse Michael\Desktop\USB back up\LifeWithoutTaxes2\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\Sound\Frost Waltz.xnb</Output>
+      <Extra>C:\Users\Jesse Michael\Desktop\USB back up\LifeWithoutTaxes2\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\Sound\Frost Waltz.wma</Extra>
+      <Time>2011-03-12T22:56:26-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\Kick Shock.mp3</Source>
+      <Name>Sound\Kick Shock</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesse Michael\Desktop\USB back up\LifeWithoutTaxes2\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\Sound\Kick Shock.xnb</Output>
+      <Extra>C:\Users\Jesse Michael\Desktop\USB back up\LifeWithoutTaxes2\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\Sound\Kick Shock.wma</Extra>
+      <Time>2011-03-12T22:56:26-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\Killing Time.mp3</Source>
+      <Name>Sound\Killing Time</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesse Michael\Desktop\USB back up\LifeWithoutTaxes2\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\Sound\Killing Time.xnb</Output>
+      <Extra>C:\Users\Jesse Michael\Desktop\USB back up\LifeWithoutTaxes2\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\Sound\Killing Time.wma</Extra>
+      <Time>2011-03-12T22:56:26-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\Scheming Weasel faster.mp3</Source>
+      <Name>Sound\Scheming Weasel faster</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesse Michael\Desktop\USB back up\LifeWithoutTaxes2\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\Sound\Scheming Weasel faster.xnb</Output>
+      <Extra>C:\Users\Jesse Michael\Desktop\USB back up\LifeWithoutTaxes2\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\Sound\Scheming Weasel faster.wma</Extra>
+      <Time>2011-03-12T22:56:26-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\Faster Does It.mp3</Source>
+      <Name>Sound\Faster Does It</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesse Michael\Desktop\USB back up\LifeWithoutTaxes2\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\Sound\Faster Does It.xnb</Output>
+      <Extra>C:\Users\Jesse Michael\Desktop\USB back up\LifeWithoutTaxes2\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\Sound\Faster Does It.wma</Extra>
+      <Time>2011-03-14T02:01:30-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Effect1.fx</Source>
+      <Name>Effect1</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesse Michael\Desktop\USB back up\LifeWithoutTaxes2\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\Effect1.xnb</Output>
+      <Time>2011-03-13T17:55:42-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\fontArial.spritefont</Source>
+      <Name>Fonts\fontArial</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesse Michael\Desktop\USB back up\LifeWithoutTaxes2\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\Fonts\fontArial.xnb</Output>
+      <Time>2011-03-12T22:56:26-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Model\Barricade.fbx</Source>
+      <Name>Model\Barricade</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesse Michael\Desktop\USB back up\LifeWithoutTaxes2\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\Model\Barricade.xnb</Output>
+      <Time>2011-03-12T22:56:26-07:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Model\Barricade_0.xml</Key>
+        <Value>2011-11-22T15:57:42.7901668-07:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Model\carBlack.fbx</Source>
+      <Name>Model\carBlack</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesse Michael\Desktop\USB back up\LifeWithoutTaxes2\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\Model\carBlack.xnb</Output>
+      <Time>2011-03-12T22:56:26-07:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Model\carBlack_0.xml</Key>
+        <Value>2011-11-22T15:57:45.2153055-07:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Model\carBlue.fbx</Source>
+      <Name>Model\carBlue</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesse Michael\Desktop\USB back up\LifeWithoutTaxes2\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\Model\carBlue.xnb</Output>
+      <Time>2011-03-12T22:56:26-07:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Model\carBlue_0.xml</Key>
+        <Value>2011-11-22T15:57:47.2204202-07:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Model\carGreen.fbx</Source>
+      <Name>Model\carGreen</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesse Michael\Desktop\USB back up\LifeWithoutTaxes2\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\Model\carGreen.xnb</Output>
+      <Time>2011-03-12T22:56:26-07:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Model\carGreen_0.xml</Key>
+        <Value>2011-11-22T15:57:49.3185402-07:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Model\carPurple.fbx</Source>
+      <Name>Model\carPurple</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesse Michael\Desktop\USB back up\LifeWithoutTaxes2\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\Model\carPurple.xnb</Output>
+      <Time>2011-03-12T22:56:26-07:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Model\carPurple_0.xml</Key>
+        <Value>2011-11-22T15:57:51.2336497-07:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Model\carRed.fbx</Source>
+      <Name>Model\carRed</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesse Michael\Desktop\USB back up\LifeWithoutTaxes2\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\Model\carRed.xnb</Output>
+      <Time>2011-03-12T22:56:26-07:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Model\carRed_0.xml</Key>
+        <Value>2011-11-22T15:57:53.1207577-07:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Model\carWhite.fbx</Source>
+      <Name>Model\carWhite</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesse Michael\Desktop\USB back up\LifeWithoutTaxes2\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\Model\carWhite.xnb</Output>
+      <Time>2011-03-12T22:56:26-07:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Model\carWhite_0.xml</Key>
+        <Value>2011-11-22T15:57:55.0058655-07:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Model\kangarooDown.fbx</Source>
+      <Name>Model\kangarooDown</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesse Michael\Desktop\USB back up\LifeWithoutTaxes2\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\Model\kangarooDown.xnb</Output>
+      <Time>2011-03-12T22:56:26-07:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Model\kangarooDown_0.xml</Key>
+        <Value>2011-11-22T15:58:05.8354849-07:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Model\kangarooUp.fbx</Source>
+      <Name>Model\kangarooUp</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesse Michael\Desktop\USB back up\LifeWithoutTaxes2\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\Model\kangarooUp.xnb</Output>
+      <Time>2011-03-12T22:56:26-07:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Model\kangarooUp_0.xml</Key>
+        <Value>2011-11-22T15:58:16.8181131-07:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Model\Log.fbx</Source>
+      <Name>Model\Log</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesse Michael\Desktop\USB back up\LifeWithoutTaxes2\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\Model\Log.xnb</Output>
+      <Time>2011-03-12T22:56:26-07:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Model\Log_0.xml</Key>
+        <Value>2011-11-22T15:58:18.4572068-07:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Model\potHole.fbx</Source>
+      <Name>Model\potHole</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesse Michael\Desktop\USB back up\LifeWithoutTaxes2\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\Model\potHole.xnb</Output>
+      <Time>2011-03-12T22:56:26-07:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Model\potHole_0.xml</Key>
+        <Value>2011-11-22T15:58:19.7952834-07:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Model\tire.fbx</Source>
+      <Name>Model\tire</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesse Michael\Desktop\USB back up\LifeWithoutTaxes2\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\Model\tire.xnb</Output>
+      <Time>2011-03-12T22:56:26-07:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Model\tire_0.xml</Key>
+        <Value>2011-11-22T15:58:21.100358-07:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Model\TrafficCone.fbx</Source>
+      <Name>Model\TrafficCone</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesse Michael\Desktop\USB back up\LifeWithoutTaxes2\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\Model\TrafficCone.xnb</Output>
+      <Time>2011-03-12T22:56:26-07:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Model\TrafficCone_0.xml</Key>
+        <Value>2011-11-22T15:58:22.2794255-07:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Model\TrashCan.fbx</Source>
+      <Name>Model\TrashCan</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesse Michael\Desktop\USB back up\LifeWithoutTaxes2\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\Model\TrashCan.xnb</Output>
+      <Time>2011-03-12T22:56:26-07:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Model\TrashCan_0.xml</Key>
+        <Value>2011-11-22T15:58:23.4994952-07:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Model\carRedStripe.fbx</Source>
+      <Name>Model\carRedStripe</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesse Michael\Desktop\USB back up\LifeWithoutTaxes2\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\Model\carRedStripe.xnb</Output>
+      <Time>2011-03-13T20:02:18-07:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Model\carRedStripe_0.xml</Key>
+        <Value>2011-11-22T15:58:26.1246454-07:00</Value>
+      </Dependency>
+      <Request>C:\Users\Jesse Michael\Desktop\USB back up\LifeWithoutTaxes2\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\Model\texture_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Model\Barricade.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Model\Barricade_0.xml</Output>
+      <Time>2011-03-12T22:56:26-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Model\carBlack.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Model\carBlack_0.xml</Output>
+      <Time>2011-03-12T22:56:26-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Model\carBlue.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Model\carBlue_0.xml</Output>
+      <Time>2011-03-12T22:56:26-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Model\carGreen.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Model\carGreen_0.xml</Output>
+      <Time>2011-03-12T22:56:26-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Model\carPurple.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Model\carPurple_0.xml</Output>
+      <Time>2011-03-12T22:56:26-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Model\carRed.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Model\carRed_0.xml</Output>
+      <Time>2011-03-12T22:56:26-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Model\carWhite.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Model\carWhite_0.xml</Output>
+      <Time>2011-03-12T22:56:26-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Model\kangarooDown.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Model\kangarooDown_0.xml</Output>
+      <Time>2011-03-12T22:56:26-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Model\kangarooUp.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Model\kangarooUp_0.xml</Output>
+      <Time>2011-03-12T22:56:26-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Model\Log.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Model\Log_0.xml</Output>
+      <Time>2011-03-12T22:56:26-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Model\potHole.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Model\potHole_0.xml</Output>
+      <Time>2011-03-12T22:56:26-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Model\tire.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Model\tire_0.xml</Output>
+      <Time>2011-03-12T22:56:26-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Model\TrafficCone.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Model\TrafficCone_0.xml</Output>
+      <Time>2011-03-12T22:56:26-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Model\TrashCan.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Model\TrashCan_0.xml</Output>
+      <Time>2011-03-12T22:56:26-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Model\carRedStripe.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Model\carRedStripe_0.xml</Output>
+      <Time>2011-03-13T20:02:18-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Model\texture.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Jesse Michael\Desktop\USB back up\LifeWithoutTaxes2\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\Model\texture_0.xnb</Output>
+      <Time>2011-03-13T13:43:38-07:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Jesse Michael\Desktop\USB back up\LifeWithoutTaxes2\LifeWithoutTaxes2\LifeWithoutTaxes2\Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Jesse Michael\Desktop\USB back up\LifeWithoutTaxes2\LifeWithoutTaxes2\LifeWithoutTaxes2\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Jesse Michael\Desktop\USB back up\LifeWithoutTaxes2\LifeWithoutTaxes2\LifeWithoutTaxes2\Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Jesse Michael\Desktop\USB back up\LifeWithoutTaxes2\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2009-05-28T00:16:14-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2009-05-28T00:16:06-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2009-05-28T00:16:16-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2009-05-28T00:16:26-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2009-05-28T00:16:12-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2009-05-28T00:16:06-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\windows\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\3.1.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2011-11-22T15:47:17.0013737-07:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

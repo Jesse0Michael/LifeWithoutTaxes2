@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>XnaInstaller</name>
+    </assembly>
+    <members>
+        <member name="T:PSS.Installers.Properties.Resources">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:PSS.Installers.Properties.Resources.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:PSS.Installers.Properties.Resources.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+        <member name="T:PSS.Installers.XnaInstaller">
+            <summary>
+            Custom installer class that installs the XNA framework redistributable at the end of a setup project (chained msi install)
+            This assembly is intended to be used in a Visual Studio 2008 setup project.
+            
+            Usage:
+            - Open the 'File System Editor' view of the setup project and add this assembly (or this project's output) to the Application Folder.
+            - Open the 'Custom Actions Editor' view of the setup project and add this assembly to the Install, Commit, Rollback and Uninstall custom actions.
+            - Optional (see defaults below): set the CustomActionData of the Commit custom action to specify the XNA redist file path, command-line args for the XNA redist installer and the XNA version key to use.
+            
+            By default, it is assumed that:
+            - This assembly is in the same folder as the XNA redistributable file
+            - The XNA redistributable file name is "Redist\xnafx31_redist.msi"
+            - The XNA version key to check is "v3.1"
+            - The XNA framework is installed with the "/qn" switch (silent install)
+            
+            Custom action properties can be specified in the CustomActionData property field of the setup project's Custom Actions view in Visual Studio 2008.
+            These properties are only used in the 'Commit' custom action. They are:
+            - XnaRedistFile: specifies the XNA framework redist filename. This must be a path relative to XnaInstaller.exe. 
+            - XnaRedistArgs: specifies the command-line args of the XNA framework installer. Ex: "/qb" for basic UI, "/qn" for silent installs
+            - XnaVersionKey: specifies the version key to use when checking whether the XNA framework is installed. Ex: "v3.1" for XNA fx 3.1
+            Example:
+            /XnaRedistFile="..\Redist Files\xnafx31_redist.msi" /XnaRedistArgs="/qb" /XnaVersionKey="v3.1"
+            </summary>
+        </member>
+        <member name="M:PSS.Installers.XnaInstaller.#ctor">
+            <summary>
+            Constructor.
+            </summary>
+        </member>
+        <member name="M:PSS.Installers.XnaInstaller.OnCommitted(System.Collections.IDictionary)">
+            <summary>
+            Called at the end of the installation. 
+            We will start our own assembly in a new process, which will in turn start the XNA install in a second process.
+            We can't start the XNA install in this method because Windows Installer has a mutex that prevents two installs from running concurrently. 
+            </summary>
+            <param name="savedState"></param>
+        </member>
+        <member name="M:PSS.Installers.XnaInstaller.Main(System.String[])">
+            <summary>
+            Entry point.
+            </summary>
+            <param name="args">Arg0: xnaRedistFile Arg1:xnaRedistArgs</param>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,131 @@
+C:\Users\msi\Documents\Visual Studio 2008\Projects\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\MenuArt\Credits.xnb
+C:\Users\msi\Documents\Visual Studio 2008\Projects\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\MenuArt\DrivingOneFail.xnb
+C:\Users\msi\Documents\Visual Studio 2008\Projects\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\MenuArt\DrivingOneIntro.xnb
+C:\Users\msi\Documents\Visual Studio 2008\Projects\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\MenuArt\DrivingOneWin.xnb
+C:\Users\msi\Documents\Visual Studio 2008\Projects\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\MenuArt\DrivingTwoFail.xnb
+C:\Users\msi\Documents\Visual Studio 2008\Projects\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\MenuArt\DrivingTwoWin.xnb
+C:\Users\msi\Documents\Visual Studio 2008\Projects\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\MenuArt\gameIntro.xnb
+C:\Users\msi\Documents\Visual Studio 2008\Projects\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\MenuArt\gameOutro.xnb
+C:\Users\msi\Documents\Visual Studio 2008\Projects\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\MenuArt\GameTwoFail.xnb
+C:\Users\msi\Documents\Visual Studio 2008\Projects\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\MenuArt\GameTwoIntro.xnb
+C:\Users\msi\Documents\Visual Studio 2008\Projects\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\MenuArt\GameTwoWin.xnb
+C:\Users\msi\Documents\Visual Studio 2008\Projects\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\MenuArt\titleScreen.xnb
+C:\Users\msi\Documents\Visual Studio 2008\Projects\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\Texture\arrowKey.xnb
+C:\Users\msi\Documents\Visual Studio 2008\Projects\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\Texture\Bar.xnb
+C:\Users\msi\Documents\Visual Studio 2008\Projects\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\Texture\BarFill Blue.xnb
+C:\Users\msi\Documents\Visual Studio 2008\Projects\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\Texture\BarFill Red.xnb
+C:\Users\msi\Documents\Visual Studio 2008\Projects\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\Texture\buttonDown.xnb
+C:\Users\msi\Documents\Visual Studio 2008\Projects\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\Texture\buttonUp.xnb
+C:\Users\msi\Documents\Visual Studio 2008\Projects\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\Texture\DrivingOneGrass2.xnb
+C:\Users\msi\Documents\Visual Studio 2008\Projects\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\Texture\DrivingOneSky21.xnb
+C:\Users\msi\Documents\Visual Studio 2008\Projects\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\Texture\DrivingOneSky22.xnb
+C:\Users\msi\Documents\Visual Studio 2008\Projects\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\Texture\DrivingOneStreet2.xnb
+C:\Users\msi\Documents\Visual Studio 2008\Projects\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\Texture\DrivingTwoGrass2.xnb
+C:\Users\msi\Documents\Visual Studio 2008\Projects\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\Texture\DrivingTwoSky2.xnb
+C:\Users\msi\Documents\Visual Studio 2008\Projects\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\Texture\DrivingTwoStreet2.xnb
+C:\Users\msi\Documents\Visual Studio 2008\Projects\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\Texture\GameTwoBkg2.xnb
+C:\Users\msi\Documents\Visual Studio 2008\Projects\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\Texture\pointer.xnb
+C:\Users\msi\Documents\Visual Studio 2008\Projects\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\Texture\redFlash.xnb
+C:\Users\msi\Documents\Visual Studio 2008\Projects\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\Texture\shadow.xnb
+C:\Users\msi\Documents\Visual Studio 2008\Projects\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\Sound\Frost Waltz.xnb
+C:\Users\msi\Documents\Visual Studio 2008\Projects\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\Sound\Kick Shock.xnb
+C:\Users\msi\Documents\Visual Studio 2008\Projects\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\Sound\Killing Time.xnb
+C:\Users\msi\Documents\Visual Studio 2008\Projects\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\Sound\Scheming Weasel faster.xnb
+C:\Users\msi\Documents\Visual Studio 2008\Projects\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\Effect1.xnb
+C:\Users\msi\Documents\Visual Studio 2008\Projects\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\Fonts\fontArial.xnb
+C:\Users\msi\Documents\Visual Studio 2008\Projects\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\Model\Barricade.xnb
+C:\Users\msi\Documents\Visual Studio 2008\Projects\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\Model\carBlack.xnb
+C:\Users\msi\Documents\Visual Studio 2008\Projects\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\Model\carBlue.xnb
+C:\Users\msi\Documents\Visual Studio 2008\Projects\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\Model\carGreen.xnb
+C:\Users\msi\Documents\Visual Studio 2008\Projects\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\Model\carPurple.xnb
+C:\Users\msi\Documents\Visual Studio 2008\Projects\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\Model\carRed.xnb
+C:\Users\msi\Documents\Visual Studio 2008\Projects\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\Model\carWhite.xnb
+C:\Users\msi\Documents\Visual Studio 2008\Projects\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\Model\kangarooDown.xnb
+C:\Users\msi\Documents\Visual Studio 2008\Projects\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\Model\kangarooUp.xnb
+C:\Users\msi\Documents\Visual Studio 2008\Projects\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\Model\Log.xnb
+C:\Users\msi\Documents\Visual Studio 2008\Projects\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\Model\potHole.xnb
+C:\Users\msi\Documents\Visual Studio 2008\Projects\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\Model\tire.xnb
+C:\Users\msi\Documents\Visual Studio 2008\Projects\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\Model\TrafficCone.xnb
+C:\Users\msi\Documents\Visual Studio 2008\Projects\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\Model\TrashCan.xnb
+C:\Users\msi\Documents\Visual Studio 2008\Projects\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\Sound\Frost Waltz.wma
+C:\Users\msi\Documents\Visual Studio 2008\Projects\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\Sound\Kick Shock.wma
+C:\Users\msi\Documents\Visual Studio 2008\Projects\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\Sound\Killing Time.wma
+C:\Users\msi\Documents\Visual Studio 2008\Projects\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\Sound\Scheming Weasel faster.wma
+C:\Users\msi\Documents\Visual Studio 2008\Projects\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\LifeWithoutTaxes2.exe
+C:\Users\msi\Documents\Visual Studio 2008\Projects\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\LifeWithoutTaxes2.pdb
+C:\Users\msi\Documents\Visual Studio 2008\Projects\LifeWithoutTaxes2\LifeWithoutTaxes2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\msi\Documents\Visual Studio 2008\Projects\LifeWithoutTaxes2\LifeWithoutTaxes2\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\msi\Documents\Visual Studio 2008\Projects\LifeWithoutTaxes2\LifeWithoutTaxes2\obj\x86\Debug\LifeWithoutTaxes2.exe
+C:\Users\msi\Documents\Visual Studio 2008\Projects\LifeWithoutTaxes2\LifeWithoutTaxes2\obj\x86\Debug\LifeWithoutTaxes2.pdb
+G:\LifeWithoutTaxes2\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\MenuArt\Credits.xnb
+G:\LifeWithoutTaxes2\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\MenuArt\DrivingOneFail.xnb
+G:\LifeWithoutTaxes2\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\MenuArt\DrivingOneIntro.xnb
+G:\LifeWithoutTaxes2\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\MenuArt\DrivingOneWin.xnb
+G:\LifeWithoutTaxes2\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\MenuArt\DrivingTwoFail.xnb
+G:\LifeWithoutTaxes2\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\MenuArt\DrivingTwoWin.xnb
+G:\LifeWithoutTaxes2\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\MenuArt\gameIntro.xnb
+G:\LifeWithoutTaxes2\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\MenuArt\gameOutro.xnb
+G:\LifeWithoutTaxes2\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\MenuArt\GameTwoFail.xnb
+G:\LifeWithoutTaxes2\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\MenuArt\GameTwoIntro.xnb
+G:\LifeWithoutTaxes2\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\MenuArt\GameTwoWin.xnb
+G:\LifeWithoutTaxes2\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\MenuArt\titleScreen.xnb
+G:\LifeWithoutTaxes2\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\Texture\arrowKey.xnb
+G:\LifeWithoutTaxes2\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\Texture\Bar.xnb
+G:\LifeWithoutTaxes2\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\Texture\BarFill Blue.xnb
+G:\LifeWithoutTaxes2\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\Texture\BarFill Red.xnb
+G:\LifeWithoutTaxes2\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\Texture\buttonDown.xnb
+G:\LifeWithoutTaxes2\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\Texture\buttonUp.xnb
+G:\LifeWithoutTaxes2\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\Texture\DrivingOneGrass2.xnb
+G:\LifeWithoutTaxes2\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\Texture\DrivingOneSky21.xnb
+G:\LifeWithoutTaxes2\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\Texture\DrivingOneSky22.xnb
+G:\LifeWithoutTaxes2\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\Texture\DrivingOneStreet2.xnb
+G:\LifeWithoutTaxes2\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\Texture\DrivingTwoGrass2.xnb
+G:\LifeWithoutTaxes2\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\Texture\DrivingTwoSky2.xnb
+G:\LifeWithoutTaxes2\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\Texture\DrivingTwoStreet2.xnb
+G:\LifeWithoutTaxes2\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\Texture\GameTwoBkg2.xnb
+G:\LifeWithoutTaxes2\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\Texture\pointer.xnb
+G:\LifeWithoutTaxes2\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\Texture\redFlash.xnb
+G:\LifeWithoutTaxes2\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\Texture\shadow.xnb
+G:\LifeWithoutTaxes2\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\Sound\Frost Waltz.xnb
+G:\LifeWithoutTaxes2\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\Sound\Kick Shock.xnb
+G:\LifeWithoutTaxes2\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\Sound\Killing Time.xnb
+G:\LifeWithoutTaxes2\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\Sound\Scheming Weasel faster.xnb
+G:\LifeWithoutTaxes2\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\Effect1.xnb
+G:\LifeWithoutTaxes2\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\Fonts\fontArial.xnb
+G:\LifeWithoutTaxes2\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\Model\Barricade.xnb
+G:\LifeWithoutTaxes2\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\Model\carBlack.xnb
+G:\LifeWithoutTaxes2\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\Model\carBlue.xnb
+G:\LifeWithoutTaxes2\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\Model\carGreen.xnb
+G:\LifeWithoutTaxes2\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\Model\carPurple.xnb
+G:\LifeWithoutTaxes2\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\Model\carRed.xnb
+G:\LifeWithoutTaxes2\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\Model\carWhite.xnb
+G:\LifeWithoutTaxes2\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\Model\kangarooDown.xnb
+G:\LifeWithoutTaxes2\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\Model\kangarooUp.xnb
+G:\LifeWithoutTaxes2\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\Model\Log.xnb
+G:\LifeWithoutTaxes2\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\Model\potHole.xnb
+G:\LifeWithoutTaxes2\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\Model\tire.xnb
+G:\LifeWithoutTaxes2\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\Model\TrafficCone.xnb
+G:\LifeWithoutTaxes2\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\Model\TrashCan.xnb
+G:\LifeWithoutTaxes2\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\Sound\Frost Waltz.wma
+G:\LifeWithoutTaxes2\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\Sound\Kick Shock.wma
+G:\LifeWithoutTaxes2\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\Sound\Killing Time.wma
+G:\LifeWithoutTaxes2\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\Sound\Scheming Weasel faster.wma
+G:\LifeWithoutTaxes2\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\LifeWithoutTaxes2.exe
+G:\LifeWithoutTaxes2\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\LifeWithoutTaxes2.pdb
+G:\LifeWithoutTaxes2\LifeWithoutTaxes2\LifeWithoutTaxes2\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\LifeWithoutTaxes2\LifeWithoutTaxes2\LifeWithoutTaxes2\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\LifeWithoutTaxes2\LifeWithoutTaxes2\LifeWithoutTaxes2\obj\x86\Debug\LifeWithoutTaxes2.exe
+G:\LifeWithoutTaxes2\LifeWithoutTaxes2\LifeWithoutTaxes2\obj\x86\Debug\LifeWithoutTaxes2.pdb
+G:\LifeWithoutTaxes2\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\Model\carRedStripe.xnb
+G:\LifeWithoutTaxes2\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\Model\texture.xnb
+G:\LifeWithoutTaxes2\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\Model\texture_0.xnb
+G:\LifeWithoutTaxes2\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\MenuArt\GameFourFail.xnb
+G:\LifeWithoutTaxes2\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\MenuArt\GameFourIntro.xnb
+G:\LifeWithoutTaxes2\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\Sound\Faster Does It.xnb
+G:\LifeWithoutTaxes2\LifeWithoutTaxes2\LifeWithoutTaxes2\bin\x86\Debug\Content\Sound\Faster Does It.wma
+H:\LifeWithoutTaxes2\LifeWithoutTaxes2\LifeWithoutTaxes2\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\LifeWithoutTaxes2\LifeWithoutTaxes2\LifeWithoutTaxes2\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+H:\LifeWithoutTaxes2\LifeWithoutTaxes2\LifeWithoutTaxes2\obj\x86\Debug\LifeWithoutTaxes2.exe
+C:\Users\Jesse Michael\Desktop\USB back up\LifeWithoutTaxes2\LifeWithoutTaxes2\LifeWithoutTaxes2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jesse Michael\Desktop\USB back up\LifeWithoutTaxes2\LifeWithoutTaxes2\LifeWithoutTaxes2\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Jesse Michael\Desktop\USB back up\LifeWithoutTaxes2\LifeWithoutTaxes2\LifeWithoutTaxes2\obj\x86\Debug\LifeWithoutTaxes2.exe

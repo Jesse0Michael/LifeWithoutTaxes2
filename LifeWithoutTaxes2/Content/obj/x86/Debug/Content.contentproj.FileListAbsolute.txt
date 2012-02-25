@@ -1,0 +1,4 @@
+C:\Users\msi\Documents\Visual Studio 2008\Projects\LifeWithoutTaxes2\LifeWithoutTaxes2\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\LifeWithoutTaxes2\LifeWithoutTaxes2\LifeWithoutTaxes2\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\LifeWithoutTaxes2\LifeWithoutTaxes2\LifeWithoutTaxes2\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jesse Michael\Desktop\USB back up\LifeWithoutTaxes2\LifeWithoutTaxes2\LifeWithoutTaxes2\Content\obj\x86\Debug\ResolveAssemblyReference.cache

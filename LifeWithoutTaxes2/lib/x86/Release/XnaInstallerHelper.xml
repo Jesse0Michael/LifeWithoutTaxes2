@@ -1,0 +1,74 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>XnaInstallerHelper</name>
+    </assembly>
+    <members>
+        <member name="T:PSS.Installers.XnaInstallerHelper">
+            <summary>
+            XNA Installer helper class.
+            </summary>
+        </member>
+        <member name="F:PSS.Installers.XnaInstallerHelper.LOG_FILENAME">
+            <summary>
+            The file the XNA installer logs messages to.
+            </summary>
+        </member>
+        <member name="F:PSS.Installers.XnaInstallerHelper.XNA_FRAMEWORK_KEY_NAME">
+            <summary>
+            This key exists in HKLM if the XNA framework is installed on the system.
+            </summary>
+        </member>
+        <member name="F:PSS.Installers.XnaInstallerHelper.XNA_INSTALLED_VALUE_NAME">
+            <summary>
+            This value should be 1 if XNA is installed.
+            </summary>
+        </member>
+        <member name="F:PSS.Installers.XnaInstallerHelper.XNA_INSTALLER_PROCESS_NAME">
+            <summary>
+            The XnaInstaller process name.
+            </summary>
+        </member>
+        <member name="M:PSS.Installers.XnaInstallerHelper.IsXnaInstalled(System.String)">
+            <summary>
+            Checks the registry to find out if the XNA framework is installed on the system.
+            </summary>
+            <param name="versionKey">The framework version key. Ex: "v3.1" for XNA 3.1</param>
+            <returns>true if the given XNA version is installed on the system; otherwise false.</returns>
+        </member>
+        <member name="M:PSS.Installers.XnaInstallerHelper.InstallXnaFramework(System.String,System.String)">
+            <summary>
+            Installs the given XNA framework in a new process.
+            </summary>
+            <param name="path">The XNA framework redist path (full path).</param>
+            <param name="args">Args to pass to the XNA framework installer. Specify '/qn' for a silent install, '/qb' for a basic install UI. For other args, see msiexec.exe /?</param>
+            <returns>The Win32 exit code of the process (0 if success. Other codes: see WinError.h)</returns>
+        </member>
+        <member name="M:PSS.Installers.XnaInstallerHelper.IsXnaInstallerRunning">
+            <summary>
+            Checks if XnaInstaller.exe is running.
+            </summary>
+            <returns>true if XnaInstaller is running; otherwise false.</returns>
+        </member>
+        <member name="M:PSS.Installers.XnaInstallerHelper.LogMessage(System.String)">
+            <summary>
+            Logs a message.
+            </summary>
+            <param name="message">The message to log.</param>
+        </member>
+        <member name="M:PSS.Installers.XnaInstallerHelper.LogMessage(System.String,System.Object[])">
+            <summary>
+            Logs a message (formatted string)
+            </summary>
+            <param name="format">The format string</param>
+            <param name="args">The args</param>
+        </member>
+        <member name="M:PSS.Installers.XnaInstallerHelper.FormatMessage(System.String)">
+            <summary>
+            Formats the given message.
+            </summary>
+            <param name="message">The message to format.</param>
+            <returns>The formatted message.</returns>
+        </member>
+    </members>
+</doc>
